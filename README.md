@@ -1,4 +1,4 @@
-# Plex/Windows/Grafana
+# Plex/Windows/Grafana setup
 
 So, here's a tiny walkthrough of what I did to make it work. Please note I'm not a programmer, or a very good writer out of instructions, but I'll do my best. Nor do I really know what I'm doing. Also, I tend to ramble a lot when I write out instructions, so sorry in advanced that this is going to be long. I'll try make it worth it by talking mostly about what's going on and what's needed, as well as some troubles and issues I had, and how I got around them, but you've been warned it will be long. Sorry.
 
